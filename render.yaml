@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: prompt-smart
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
